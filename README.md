@@ -54,7 +54,7 @@
   - [Auto-Scaling in AWS]
   - [Installing NGINX on EC2 via User-Data]
   - [Creating Databases with DynamoDB]
-  - [Installing Apache on EC2 via Bash-Scripting]
+  - [Installing Apache on EC2 via Bash-Scripting](https://github.com/StevenRoscoe/Installing-Apache-on-AWS-via-Bash-Scripting)
 - <b>Cloud Security </b>
   - [Multi-Cloud Federation (Azure & Oracle Cloud SSO)]
   - [AWS IAM User Bulk Migration]
