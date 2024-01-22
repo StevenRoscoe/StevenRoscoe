@@ -45,7 +45,32 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+<h3>⚠Non-highlighted means projects are coming soon to GitHub! For now, they can be found on my Medium blog through my profile!⚠ </h3>
 
+- <b>Cloud </b>
+  - [Triggering SQS with Lambda]
+  - [AWS SDK (boto3) for EC2 Instances]
+  - [Designing a 3-Tier Architecture (AWS)]
+  - [Auto-Scaling in AWS]
+  - [Installing NGINX on EC2 via User-Data]
+  - [Creating Databases with DynamoDB]
+  - [Installing Apache on EC2 via Bash-Scripting]
+- <b>Cloud Security </b>
+  - [Multi-Cloud Federation (Azure & Oracle Cloud SSO)]
+  - [AWS IAM User Bulk Migration]
+  - [Enhancing Security with Amazon Lightsail]
+- <b>DevOps </b>
+  - [Terraforming in AWS]
+  - [Deploying Containers with Kubernetes]
+  - [Pushing Docker Images with AWS ECR]
+  - [Source Control with GitHub]
+- <b>Linux </b>
+  - [Installing NGINX on CentOS 8](https://github.com/StevenRoscoe/Installing-NGINX-on-CentOS-8)
+  - [Linux Skills (Practice)]
+- <b>Cybersecurity </b>
+  - [Linux File Permissions]
+  - [Applying Filters to SQL Queries]
+  - [Botium Toys Inc. (Security Audit)]
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -56,7 +81,7 @@
 [linkedin]: https://www.linkedin.com/in/stevenroscoe/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**StevenRoscoe/StevenRoscoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
